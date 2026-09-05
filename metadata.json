@@ -1,0 +1,6 @@
+{
+  "name": "토닥토닥 교사 마음상담소",
+  "description": "지친 선생님의 마음에 따뜻한 위로와 쉼을 전하는 AI 전문 교사 상담 및 힐링 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
